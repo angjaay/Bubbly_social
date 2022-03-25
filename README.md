@@ -2,12 +2,15 @@
 
 ## Tentang Project Bubbly Social
 
-Project Bubbly adalah sebuah Website Social Media yang menggunakan **Sanity** sebagai Backend, menggunakan **ReactJS** sebagai framework antarmuka pengguna (User Interface) dan menggunakan **Tailwind CSS** sebagai CSS library. Apa saja sih fitur yang akan di kembangkan pada Project Polaris ini? Diantaranya:
+Project Bubbly Merupakan sebuah Website Media sosial yang menggunakan **Sanity** sebagai Backend, menggunakan **ReactJS** sebagai framework antarmuka pengguna (User Interface) dan menggunakan **Tailwind CSS** sebagai CSS library. Apa saja sih fitur yang akan di kembangkan pada Project Bubbly ini? Diantaranya:
 
-- Blog Artikel.
-- Photography Showcase.
-- Portfolio.
-- Travel Review.
+- Fitur Media sosial.
+- Google autentikasi.
+- CRUD(Create, Edit, Delete) Post.
+- Like
+- Comment
+- Pencarian.
+- Filter gambar.
 - Dll.
 
 ## Memulai Pengembangan
