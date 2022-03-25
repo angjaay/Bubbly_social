@@ -13,7 +13,7 @@ Project Bubbly Merupakan sebuah Website Media sosial yang menggunakan **Sanity**
 - Filter gambar.
 - Dll.
 
-## Memulai Pengembangan
+## Sebelum Memulai Pengembangan
 
 Apa saja sih hal yang harus dipelajari dan dimengerti untuk ikut mengembangkan proyek web aplikasi ini?
 Hal pertama yang pasti dan yang bukan lain adalah mengerti dasar dan struktur pemrograman website seperti halnya HTML, JavaScript, PHP, CSS & Database. Jika dirasa hal tersebut sudah dipahami, maka langkah selanjutnya adalah memahami cara kerja Framework **[React.JS](https://reactjs.org/docs/getting-started.html)**, **[Node.JS](https://nodejs.org/en/docs/)**, **[Laravel](https://laravel.com/docs/7.x)**, dan **[Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)**. Dengan begitu kalian dapat ikut mengembangkan proyek dan menjadikan website ini salah satu aplikasi yang dapat membantu kebutuhan para pengguna.
@@ -45,11 +45,7 @@ Terima kasih atas bantuan dan pengembangan yang telah di berikan, nantinya saat 
 
 Jika pada saat pengembangan didapati sebuah bug, fungsi yang rusak, serta seluruh penambahan dan juga revisi yang dilakukan, mohon hubungi email [denyfarras@gmail.com](mailto:denyfarras@gmail.com). Dengan begitu kita dapat menjadikan proyek ini menjadi aplikasi yang dapat memberikan performa baik saat di pakai oleh pengguna.
 
-## EVENT!!!
-
-Pada pengembangan CMS ini, nantinya kami akan menggandeng beberapa photographer untuk membuat template
-Photography Showcase dan membuat **Wonderfull Bandung Project**.
 
 ## Lisensi
 
-Fr
+
