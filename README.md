@@ -1,8 +1,8 @@
-<p align="center"><img src="https://res.cloudinary.com/angzai/image/upload/v1648220128/Bubbly-bg_owl7xu.png" width="500"></p>
+<p align="center"><img src="https://res.cloudinary.com/angzai/image/upload/v1648220230/Bubbly-bg_njw19f.png" width="500"></p>
 
-## Tentang Project Polaris
+## Tentang Project Bubbly Social
 
-Project Polaris adalah sebuah Website Travel Photography yang menggunakan **Laravel** sebagai Backend, menggunakan **ReactJS** sebagai framework antarmuka pengguna (User Interface) dan menggunakan **Bootstrap** sebagai CSS library. Apa saja sih fitur yang akan di kembangkan pada Project Polaris ini? Diantaranya:
+Project Bubbly adalah sebuah Website Social Media yang menggunakan **Sanity** sebagai Backend, menggunakan **ReactJS** sebagai framework antarmuka pengguna (User Interface) dan menggunakan **Tailwind CSS** sebagai CSS library. Apa saja sih fitur yang akan di kembangkan pada Project Polaris ini? Diantaranya:
 
 - Blog Artikel.
 - Photography Showcase.
