@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dens-lab/image/upload/v1593840157/banner2_sbnvsy.png" width="500"></p>
+<p align="center"><img src="https://res.cloudinary.com/angzai/image/upload/v1648220128/Bubbly-bg_owl7xu.png" width="500"></p>
 
 ## Tentang Project Polaris
 
