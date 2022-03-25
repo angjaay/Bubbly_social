@@ -16,7 +16,7 @@ Project Bubbly Merupakan sebuah Website Media sosial yang menggunakan **Sanity**
 ## Sebelum Memulai Pengembangan
 
 Apa saja sih hal yang harus dipelajari dan dimengerti untuk ikut mengembangkan proyek web aplikasi ini?
-Hal pertama yang pasti dan yang bukan lain adalah mengerti dasar dan struktur pemrograman website seperti halnya HTML, JavaScript, PHP, CSS & Database. Jika dirasa hal tersebut sudah dipahami, maka langkah selanjutnya adalah memahami cara kerja Framework **[React.JS](https://reactjs.org/docs/getting-started.html)**, **[Node.JS](https://nodejs.org/en/docs/)**, **[Sanity](https://www.sanity.io/)**, dan **[Tailwind CSS](https://tailwindcss.com/docs/installation/)**. Dengan begitu kalian dapat ikut mengembangkan proyek dan menjadikan website ini salah satu aplikasi yang dapat membantu kebutuhan para pengguna.
+Hal pertama yang pasti dan yang bukan lain adalah mengerti dasar dan struktur pemrograman website seperti halnya HTML, JavaScript, CSS & Database. Jika dirasa hal tersebut sudah dipahami, maka langkah selanjutnya adalah memahami cara kerja Framework **[React.JS](https://reactjs.org/docs/getting-started.html)**, **[Node.JS](https://nodejs.org/en/docs/)**, **[Sanity](https://www.sanity.io/)**, dan **[Tailwind CSS](https://tailwindcss.com/docs/installation/)**. Dengan begitu kalian dapat ikut mengembangkan proyek dan menjadikan website ini salah satu aplikasi yang dapat membantu kebutuhan para pengguna.
 
 ## Apa Saja Yang Dibutuhkan?
 
