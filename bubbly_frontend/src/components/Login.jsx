@@ -49,11 +49,11 @@ const Login = () => {
               render={(renderProps)=>(
                 <button
                   type="button"
-                  className="bg-mainColor p-3 flex justify-center items-center rounded-lg cursor-pointer outline-none"
+                  className="bg-mainColor p-3 flex justify-center items-center text-md text-slate-800 font-sans font-semibold rounded-lg cursor-pointer outline-none"
                   onClick={renderProps.onClick}
                   disabled={renderProps.disabled}
                 >
-                  <FcGoogle className="mr-4"/> Sign in with Google
+                  <FcGoogle className="mr-4"/> Masuk dengan Google
                 </button>
               )}
               onSuccess={responseGoogle}
