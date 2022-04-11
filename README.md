@@ -11,6 +11,7 @@ Project Bubbly Merupakan sebuah Website Media sosial yang menggunakan **Sanity**
 - Comment
 - Pencarian.
 - Filter gambar.
+- Zoom gambar.
 - Dll.
 
 ## Sebelum Memulai Pengembangan
@@ -38,6 +39,7 @@ Untuk memulai pengembangan, diperlukan software utama dan penunjang agar para pe
 - **react-masonry-css**
 - **react-loader-spinner**
 - **react-icons**
+- **react-awesome-lightbox**
 
 ## Kontribusi
 
