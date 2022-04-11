@@ -1,4 +1,4 @@
-<a align="center"><img src="https://res.cloudinary.com/angzai/image/upload/v1648220230/Bubbly-bg_njw19f.png" width="500"></a>
+<p align="center"><img src="https://res.cloudinary.com/angzai/image/upload/v1648220230/Bubbly-bg_njw19f.png" width="500"></p>
 
 ## Tentang Project Bubbly Social
 
