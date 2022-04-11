@@ -5,7 +5,7 @@ import {Grid} from 'react-loader-spinner';
 
 function Spinner({ message }) {
   return (
-    <div className="flex flex-col justify-center items-center w-full h-full">
+    <div className="flex flex-col justify-center items-center mt-1 w-full h-full">
       <Grid
         type="Circles"
         color="#3b82f6"
@@ -14,7 +14,7 @@ function Spinner({ message }) {
         className="m-5"
       />
 
-      <p className="text-lg text-center px-2">{message}</p>
+      <p className="text-lg text-center py-2">{message}</p>
     </div>
   );
 }
