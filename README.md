@@ -52,4 +52,5 @@ Jika pada saat pengembangan didapati sebuah bug, fungsi yang rusak, serta seluru
 
 ## Lisensi
 
+ReactJS, Tailwind CSS dan Sanity adalah software lisensi _open-source_ dibawah [MIT license](https://opensource.org/licenses/MIT).
 
